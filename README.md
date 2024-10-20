@@ -20,3 +20,7 @@ skeleton implementation
 7. 5 and 6 November - Project demos.
 Please do not fall behind schedule. The project carries a significant weight in your final
 mark and is very good preparation for your third year team-based modules.
+
+# Branching Strategy 
+
+- feature branching.
